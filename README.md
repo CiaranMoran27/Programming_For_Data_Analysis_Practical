@@ -37,8 +37,7 @@ has many benifits in prediciting probabilities and in the world of machine learn
         <br />
         
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/CiaranMoran27/Programming_For_Data_Analysis_Project/blob/fc228be33daabdc70f4d35560c75a5ff286627ea/modelling_real_world_scenario.ipynb) 
-     
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/CiaranMoran27/Programming_For_Data_Analysis_Project/blob/1a6ac3ab27e320e0c93c31a0da7115876b1f5b1d/modelling_real_world_scenario.ipynb) 
    <br />
      
 
