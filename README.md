@@ -90,9 +90,9 @@ following sections (Simulation Cells) of the notebook and can be ran to simulate
     post model.<br>
 
 - **Overall:**
-    - This project showed how accurate the numpy multivariate_normal module is at modelling normally distributed<br>
-variables when given a mean, standard deviation and co-variance matrix. It also successfully illustrated how<br>
-one can replicate Linear Regression Models using sklearn. 
+    - This project showed how accurate the numpy multivariate_normal module is at modelling normally<br>
+    distributed variables when given a mean, standard deviation and co-variance matrix. It also<br>
+    successfully illustrated how one can replicate Linear Regression Models using sklearn. 
 
 
 <br>
